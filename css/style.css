@@ -19,6 +19,7 @@
 
 body { 
     color: orange;
+    background-color: grey; 
     background-size: cover;
     font-family: 'Akronim', cursive;
 }
